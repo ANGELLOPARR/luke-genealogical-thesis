@@ -2,3 +2,7 @@
 **models
 **models_archive
 **ipynb_checkpoints
+**wiki_data
+**labeling_archives
+**model_data_archives
+new_labels.json
